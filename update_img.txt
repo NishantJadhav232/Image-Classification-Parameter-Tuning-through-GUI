@@ -1,0 +1,4 @@
+pictures\pictures\forest.jfif
+pictures\pictures\glacier.jfif
+pictures\pictures\mnt.jfif
+pictures\pictures\sea.jfif
